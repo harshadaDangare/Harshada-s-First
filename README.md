@@ -9,16 +9,27 @@ This infographic provides a comprehensive overview of the clinical manifestation
 Symptoms of Parkinson’s Disease
 1. Motor Skill SymptomsThese are the "classic" physical signs of Parkinson’s, typically resulting from the loss of motor control and muscle regulation.
 Bradykinesia: This refers to the slowness of movement. It often manifests as reduced emotional facial expressions (hypomimia or "masked face"), making it difficult for patients to convey feelings through gestures or smiles.
+
 Vocal Symptoms: Changes in speech, including a softened voice (hypophonia), a monotonous tone, or slurring.
+
 Rigidity and Postural Instability: Increased muscle stiffness and a stooped posture. This leads to impaired balance and an increased risk of falls.
+
 Tremors: Often the most recognizable sign, usually appearing as a rhythmic shaking in the hands, arms, or legs, frequently occurring at rest ("resting tremor").
+
 Walking or Gait Difficulties: Patients may experience a shuffling gait, decreased arm swing while walking, or "freezing," where they feel stuck to the floor.
+
 Dystonia: Characterized by involuntary muscle contractions that cause repetitive or twisting movements and painful postures.
+
 2.Non-motor Skill Symptoms: These symptoms often appear years before motor issues (prodromal phase) and can significantly impact the quality of life.
+
 Neuropsychiatric Symptoms: This includes depression, anxiety, and cognitive impairment. Patients may experience difficulty with memory, focus, and executive function (dementia in later stages).
+
 Sensory Changes: A diminished or lost sense of smell (anosmia) is one of the earliest warning signs of PD.
+
 Dermatological & Autonomic Issues: Problems with sweating (hyperhidrosis) and a statistically higher risk of developing melanoma (skin cancer).
+
 Gastrointestinal Symptoms: A broad range of issues including constipation, drooling (sialorrhea), and in some cases, fecal incontinence.
+
 Musculoskeletal Pain: Specifically joint pain, which can be exacerbated by the physical strain of rigidity and dystonia.
 
 # Summary Table: 
