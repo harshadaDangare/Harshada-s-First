@@ -2,7 +2,8 @@
 
 Author Name: Harshada Mahesh Dangare. 
 Institution: Institute of Bioinformatics and Biotechnology (IBB), SPPU.
-This infographic provides a comprehensive overview of the clinical manifestations of Parkinson’s Disease (PD), categorizing them into Motor and Non-motor symptoms. Parkinson’s is a progressive neurological disorder primarily affecting dopamine-producing neurons in the brain.
+
+# This infographic provides a comprehensive overview of the clinical manifestations of Parkinson’s Disease (PD), categorizing them into Motor and Non-motor symptoms. Parkinson’s is a progressive neurological disorder primarily affecting dopamine-producing neurons in the brain.
  
 # Clinical Overview:
 Symptoms of Parkinson’s Disease
